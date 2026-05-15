@@ -5,3 +5,4 @@ Improved repository structure organization
 Added setup instructions for contributors
 Updated README formatting and layout
 Added temporary testing notes
+Improved markdown consistency across files
