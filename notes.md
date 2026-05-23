@@ -11,3 +11,4 @@ Updated feature tracking section
 Added development progress notes
 Improved naming consistency
 Improved documentation readability
+Added backend integration ideas
