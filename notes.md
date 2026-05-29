@@ -18,3 +18,4 @@ Improved folder organization structure
 Added API reference placeholders
 Updated local testing instructions
 Added debugging workflow notes
+Improved commit organization strategy
