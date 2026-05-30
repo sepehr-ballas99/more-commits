@@ -24,3 +24,4 @@ Updated roadmap documentation
 Added feature implementation notes
 Improved naming conventions
 Added contributor workflow reminders
+Updated installation documentation
