@@ -34,3 +34,4 @@ Improved markdown styling consistency
 Added release preparation notes
 Updated project architecture ideas
 Added temporary config examples
+Improved repository navigation layout
