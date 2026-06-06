@@ -36,3 +36,4 @@ Updated project architecture ideas
 Added temporary config examples
 Improved repository navigation layout
 Added deployment status notes
+Updated changelog structure
