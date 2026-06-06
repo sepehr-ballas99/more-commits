@@ -37,3 +37,4 @@ Added temporary config examples
 Improved repository navigation layout
 Added deployment status notes
 Updated changelog structure
+Added development workflow examples
