@@ -45,3 +45,4 @@ Improved blockchain analytics notes
 Updated protocol experimentation workflow
 Finalized documentation progress update
 Added project scalability ideas
+Updated maintenance workflow notes
