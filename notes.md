@@ -44,3 +44,4 @@ Finalized Base ecosystem analytics documentation
 Improved blockchain analytics notes
 Updated protocol experimentation workflow
 Finalized documentation progress update
+Added project scalability ideas
